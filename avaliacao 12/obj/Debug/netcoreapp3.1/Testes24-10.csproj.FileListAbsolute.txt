@@ -1,0 +1,14 @@
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.exe
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.deps.json
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.runtimeconfig.json
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.runtimeconfig.dev.json
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.dll
+D:\Projetos\Testes24-10\Testes24-10\bin\Debug\netcoreapp3.1\Testes24-10.pdb
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.csproj.AssemblyReference.cache
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.AssemblyInfoInputs.cache
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.AssemblyInfo.cs
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.csproj.CoreCompileInputs.cache
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.dll
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.pdb
+D:\Projetos\Testes24-10\Testes24-10\obj\Debug\netcoreapp3.1\Testes24-10.genruntimeconfig.cache
